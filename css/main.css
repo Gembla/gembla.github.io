@@ -51,6 +51,10 @@ p {
  
 }
 
+.box-video > iframe{
+    border: none;
+}
+
 .box-video iframe {
     display: block;
     width: 100%;
